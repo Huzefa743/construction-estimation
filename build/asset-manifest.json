@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/construction-estimation/static/css/main.ce97f31e.chunk.css",
+    "main.js": "/construction-estimation/static/js/main.a3eea950.chunk.js",
+    "main.js.map": "/construction-estimation/static/js/main.a3eea950.chunk.js.map",
+    "runtime-main.js": "/construction-estimation/static/js/runtime-main.9b9cd1f7.js",
+    "runtime-main.js.map": "/construction-estimation/static/js/runtime-main.9b9cd1f7.js.map",
+    "static/css/2.a6f29075.chunk.css": "/construction-estimation/static/css/2.a6f29075.chunk.css",
+    "static/js/2.1ea0e9ad.chunk.js": "/construction-estimation/static/js/2.1ea0e9ad.chunk.js",
+    "static/js/2.1ea0e9ad.chunk.js.map": "/construction-estimation/static/js/2.1ea0e9ad.chunk.js.map",
+    "index.html": "/construction-estimation/index.html",
+    "static/css/2.a6f29075.chunk.css.map": "/construction-estimation/static/css/2.a6f29075.chunk.css.map",
+    "static/css/main.ce97f31e.chunk.css.map": "/construction-estimation/static/css/main.ce97f31e.chunk.css.map",
+    "static/js/2.1ea0e9ad.chunk.js.LICENSE.txt": "/construction-estimation/static/js/2.1ea0e9ad.chunk.js.LICENSE.txt",
+    "static/media/iconlogo.5926cff3.png": "/construction-estimation/static/media/iconlogo.5926cff3.png",
+    "static/media/logo7.bcdc4134.svg": "/construction-estimation/static/media/logo7.bcdc4134.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b9cd1f7.js",
+    "static/css/2.a6f29075.chunk.css",
+    "static/js/2.1ea0e9ad.chunk.js",
+    "static/css/main.ce97f31e.chunk.css",
+    "static/js/main.a3eea950.chunk.js"
+  ]
+}
